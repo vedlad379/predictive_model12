@@ -82,6 +82,7 @@ The project uses Linear Regression for prediction.
 
 ![image alt](https://github.com/vedlad379/predictive_model12/blob/0e7720cb6df5d87eb390088139bc5431980f5d3d/Screenshot%202026-05-27%20174639.png)
 
+![image alt](https://github.com/vedlad379/predictive_model12/blob/effa3b54026d2576822eb238a946b2b29dbe4791/Screenshot%202026-05-27%20180233.png)
 
 
 Where:
